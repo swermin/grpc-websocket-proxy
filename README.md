@@ -1,6 +1,6 @@
 # grpc-websocket-proxy
 
-[![GoDoc](https://godoc.org/github.com/tmc/grpc-websocket-proxy/wsproxy?status.svg)](http://godoc.org/github.com/tmc/grpc-websocket-proxy/wsproxy)
+[![GoDoc](https://godoc.org/github.com/swermin/grpc-websocket-proxy/wsproxy?status.svg)](http://godoc.org/github.com/swermin/grpc-websocket-proxy/wsproxy)
 
 Wrap your grpc-gateway mux with this helper to expose streaming endpoints over websockets.
 
@@ -19,7 +19,7 @@ Usage:
 
 
 # wsproxy
-    import "github.com/tmc/grpc-websocket-proxy/wsproxy"
+    import "github.com/swermin/grpc-websocket-proxy/wsproxy"
 
 Package wsproxy implements a websocket proxy for grpc-gateway backed services
 

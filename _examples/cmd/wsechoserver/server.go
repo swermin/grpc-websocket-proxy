@@ -7,7 +7,7 @@ import (
 
 	"github.com/golang/protobuf/jsonpb"
 	log "github.com/sirupsen/logrus"
-	"github.com/tmc/grpc-websocket-proxy/examples/cmd/wsechoserver/echoserver"
+	"github.com/swermin/grpc-websocket-proxy/examples/cmd/wsechoserver/echoserver"
 )
 
 type Server struct{}
